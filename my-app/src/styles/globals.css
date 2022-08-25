@@ -7,3 +7,6 @@ body{
   background-color: black;
   color:rgb(253, 253, 253);
 }
+a{
+  text-decoration: none;
+}
