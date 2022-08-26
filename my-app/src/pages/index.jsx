@@ -16,6 +16,8 @@ export default function principal() {
         <Link href={'/clients'}>clients</Link>
         <Link href={'/clients/Cadastros'} >Cadastros</Link>
         <Link href={'/clients/sp-34/8755'} >Cliente 1</Link>
+        <Link href={'/integracao'}>integracao</Link>
+        <Link href={'/estatico'}>Estatico</Link>
       </div>
     </div>
   )
