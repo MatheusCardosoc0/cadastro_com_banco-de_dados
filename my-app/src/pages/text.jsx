@@ -21,7 +21,7 @@ export default function text(){
     <div className={styles.roxo}>
      
       {titulo}
-      <h1>aula {count} do desenvolvimento do curso</h1>
+      <h1>aula {count} do desenvolvimento do curso de next</h1>
       <span>{'eae'.toUpperCase()}</span>
       <p>
         {JSON.stringify({nome: 'Matheus', idade : 33}) }
